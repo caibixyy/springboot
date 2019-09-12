@@ -111,26 +111,12 @@ public class RedisController {
         return redisTemplate.opsForList().range("left-list",1,-1);
     }
     //有序集合
-    @ResponseBody
+    /*@ResponseBody
     @GetMapping("/redisZset")
     public List<String> redisZset(){
-        //表头插入一个
-        //redisTemplate.opsForList().leftPush("left-list","java");
-        //表头插入多个
-        //String[] arr=new String[]{"JS","HTML","C#","C++"};
-        //redisTemplate.opsForList().leftPushAll("left-list",arr);
-        //表尾插入一个
-        //redisTemplate.opsForList().rightPush("right-list","java");
-        //表尾插入多个
-        //redisTemplate.opsForList().rightPushAll("right-list",arr);
-        //设置位置
-        //redisTemplate.opsForList().set("right-list",0,"第一个");
-        //删除：count>0:删除等于从头到尾移动的值的元素。
-        //count<0:删除等于从尾到头移动的值的元素。
-        //count=0:删除等于value的所有元素
         redisTemplate.opsForList().remove("right-list",1,"JS");
         return redisTemplate.opsForList().range("left-list",1,-1);
-    }
+    }*/
 
 
 }
