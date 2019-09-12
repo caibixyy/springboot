@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Carbon - Admin Template</title>
+</head>
+<body>
+<div class="page-wrapper flex-row align-items-center">
+    <form method="get" action="login">
+        <label class="form-control-label">用户名</label>
+        <input type="text" name ="username" class="form-control-email">
+        <br>
+        <label class="form-control-label">密  码</label>
+        <input type="password" name="password" class="form-control-password">
+        <br>
+        <input type="submit" class="submit-btn">
+    </form>
+</div>
+<script src="vendor/jquery/jquery.min.js"></script>
+<script>
+   /* $("#id-login").on("click",function(){
+        var username=$("#form-control-username").val();
+        var password=$("#form-control-passwords").val();
+        $.ajax({
+            url:"login",
+            async:false,  //是否异步，默认true
+            type:"post",
+            data:{"username":username,"password":password},
+            success:function (data) {   //数据	成功接受时的操作
+               alert(data)
+            },
+            error:function () {            //数据未能成功接受时的操作
+                alert(username+password);
+            },
+        })
+    })*/
+</script>
+</body>
+</html>
