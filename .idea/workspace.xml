@@ -1,125 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f09cd87a-b505-49dd-87cd-0fe791f36b20" name="Default Changelist" comment="注释内容">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyy/cache/config/RabbitConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/xyy/cache/Producer05_topics_springboot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/cache.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/CachedemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mongojpa/Emps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mongojpa/MongoEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mongojpa/MongoUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mysqljpa/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mysqljpa/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mysqljpa/OfClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mysqljpa/Permission.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mysqljpa/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mysqljpa/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mysqljpa/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/bean/mysqljpa/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/config/AuthRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/config/MailConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/config/MyWeb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/config/RedisConfig$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/config/RedisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/config/ShiroConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/AddressController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/MongoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/MongoUserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/OfClassController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/PermissionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/PersonController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/RedisController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/StudentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/repository/AddressRepositoty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/repository/EmpRepositoty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/repository/OfClassRepositoty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/repository/PermissionRepositity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/repository/PersonRepositoty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/repository/RoleRepositoty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/repository/StudentRepositoty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/repository/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/service/Impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyy/cache/util/RedisUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/imgs/avatar-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/imgs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/carbon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/chart.js/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/chart.js/chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fa-brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fa-brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fa-regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fa-regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fa-solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fa-solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fontawesome-all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/popper.js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/simple-line-icons/css/simple-line-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/alerts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/blank.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/chartjs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/firstPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/invoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts-fixed-header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts-fixed-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts-hidden-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts-normal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/modals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/progress-bars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/tabs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/widgets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xyy/cache/CachedemoApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xyy/cache/ElsticTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xyy/cache/JpaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xyy/cache/service/Impl/RabbitMQImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="f09cd87a-b505-49dd-87cd-0fe791f36b20" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+            <state relative-caret-position="366">
+              <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -165,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="43">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -261,8 +143,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/xyy/cache/Producer05_topics_springboot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xyy/cache/rabbit_producer/Producer01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xyy/cache/config/RabbitConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -345,27 +227,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -538,7 +399,7 @@
       <workItem from="1568376077987" duration="1198000" />
       <workItem from="1568599077158" duration="6174000" />
       <workItem from="1568613325910" duration="594000" />
-      <workItem from="1568702079050" duration="1591000" />
+      <workItem from="1568702079050" duration="1847000" />
     </task>
     <task id="LOCAL-00001">
       <created>1568279631314</created>
@@ -575,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568613536912</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="加入rabbitMQ配置">
+      <created>1568703849598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568703849598</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -611,10 +479,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180686000" />
+    <option name="totallyTimeSpent" value="180942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
@@ -756,7 +624,8 @@
     <MESSAGE value="注释掉这个方法" />
     <MESSAGE value="rabbitMQ相关类创建" />
     <MESSAGE value="redisUtil使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="redisUtil使用" />
+    <MESSAGE value="加入rabbitMQ配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入rabbitMQ配置" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/firstPage.html">
@@ -1165,17 +1034,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+        <state relative-caret-position="43">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="366">
+          <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
         </state>
       </provider>
     </entry>
